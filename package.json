@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.14.1",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
+  },
+  "name": "silicon-handler",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Silicon",
+    "Discord Silicon"
+  ],
+  "author": "abdullah@jauish.com",
+  "license": "Apache-2.0",
+  "description": "The initial handler that Djs Silicon uses."
+}
